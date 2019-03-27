@@ -6,7 +6,7 @@
 
 ```
 $ cd /DRIVE/xampp/htdocs/express
-$ git pull --no-edit https://github.com/noucampdotorgWD12018/express.git latest
+$ git pull --no-edit https://github.com/noucampdotorgSSAD2019/express.git latest
 $ git status
 
 ```
